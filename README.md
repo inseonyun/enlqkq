@@ -1,4 +1,10 @@
-# ⛽ 뛰뛰야 밥먹자
+<p>
+ <img width="5%" alt="image" src="https://github.com/user-attachments/assets/b10e087a-0704-43df-8e90-bb3fc3e093db" /> <b>뛰뛰야 밥먹자</b>
+</p>
+
+![.](https://img.shields.io/badge/Published-Reviewing-blue)
+![.](https://img.shields.io/badge/Android-green)
+![.](https://img.shields.io/badge/iOS-black)
 
 > **내 주변 주유소의 유가를 쉽고 빠르게 비교하고, 더 합리적인 주유소를 선택할 수 있도록 돕는 위치 기반 유가 정보 서비스**
 
