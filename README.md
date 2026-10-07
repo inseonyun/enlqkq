@@ -8,13 +8,14 @@
 
 > **내 주변 주유소의 유가를 쉽고 빠르게 비교하고, 더 합리적인 주유소를 선택할 수 있도록 돕는 위치 기반 유가 정보 서비스**
 
-<img width="1024" height="500" alt="image" src="https://github.com/user-attachments/assets/8e794c71-2651-4ca8-b1f2-0c0967c5a6e8" />
+<img width="1024" height="500" alt="image" src="https://github.com/user-attachments/assets/85d00614-df23-4f51-a304-8e760b368bb9" />
 
 <br>
 
 | 주변 주유소 | 주유소 상세 | 조회 설정 | 알림 설정 |
 | ------ | ------ | ---- | ----- |
-| <img width="100%" alt="image" src="https://github.com/user-attachments/assets/64eb2f72-56f3-4c1e-a694-30926191f535" /> | <img width="100%" alt="image" src="https://github.com/user-attachments/assets/e1ea308b-e279-4a27-bb8d-974ca2c758fe" /> | <img width="100%" alt="image" src="https://github.com/user-attachments/assets/3f0b76b5-975f-472b-aa1d-1a68e8ae968c" /> | <img width="100%" alt="image" src="https://github.com/user-attachments/assets/63603f64-03be-42b3-a8c1-ed16c199b529" /> |
+| <img width="100%" alt="image" src="https://github.com/user-attachments/assets/16f84c3b-5772-4f93-88f5-bc0c921afe74" /> | <img width="100%" alt="image" src="https://github.com/user-attachments/assets/4864f16d-50ad-4bc2-ad55-e02b9fa74003" /> | <img width="100%" alt="image" src="https://github.com/user-attachments/assets/b7f5536b-4ab9-499b-9b94-2455e5a73e70" /> | <img width="100%" alt="image" src="https://github.com/user-attachments/assets/f613517f-7cb1-4fd2-b0a9-2369624006f0" /> |
+
 
 <br>
 
